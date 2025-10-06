@@ -2,7 +2,7 @@
 
 ## Module 1: Introduction to Machine Learning
 
-The first part of the course helped me understand what machine learning is and how it’s different from just writing traditional programs. I learned about the whole process—from collecting data to making predictions.
+The first part of the course helped me understand what machine learning is and how it’s different from just writing traditional programs. I learned about the whole process from collecting data to making predictions.
 
 ### What I Learned
 - The basics of machine learning, like supervised and unsupervised learning  
@@ -26,7 +26,7 @@ In the second module, I focused on how to predict numbers, like the price of a c
 - How to test and tune my models to make them as good as possible  
 - Building models in Python from scratch and also using helpful libraries  
 
-> This part showed me that building good models isn’t just about coding — it’s about understanding the data and making small improvements step by step.
+> This part showed me that building good models isn’t just about coding , it’s about understanding the data and making small improvements step by step.
 
 ---
 
