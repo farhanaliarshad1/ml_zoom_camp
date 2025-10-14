@@ -28,6 +28,22 @@ In the second module, I focused on how to predict numbers, like the price of a c
 
 > This part showed me that building good models isn’t just about coding , it’s about understanding the data and making small improvements step by step.
 
+### Module 3: Classification
+In the third module of the course, I learned how machine learning can be used to classify things—predicting categories such as "converted" leads or not. I worked with a real-world dataset about lead scoring for an online course and applied a step-by-step classification workflow, including data preparation, exploratory analysis, feature engineering, training models, and evaluating results.
+
+### I Learned
+
+- I checked for missing values in both categorical and numerical columns. I learned to fill missing values-categorical ones with 'NA', and numerical ones with 0.0 to make sure the data was ready for modeling.
+- I practiced finding the most common value in a column (mode). I calculated the correlation matrix for all numeric features and identified which pairs of variables were most related.
+- I split the dataset into training, validation, and test sets (60/20/20) to keep the evaluation fair and reproducible.
+- I used label encoding for category columns when calculating mutual information, and one-hot encoding when training my models.
+- I measured how much information each categorical variable shares with the target label, showing which categories help the model the most.
+- I trained a logistic regression model to classify converted leads and experimented with regularization strength (the 'C' parameter) to make my model generalize better.
+-  I learned how to measure the importance of each feature by removing them one at a time and observing the change in model performance.
+
+### Reflection
+This module helped me understand how classification models are built and what steps matter most: preparing good data, exploring and choosing features, and tuning the model carefully. I got hands-on experience with real-world problems and built confidence in using scikit-learn for practical machine learning tasks.
+
 ---
 
 *I’m excited to keep learning more and to improve my skills in machine learning!*
